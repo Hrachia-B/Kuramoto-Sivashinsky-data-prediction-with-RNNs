@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.npz
+*.npy
+*.h5
+*.pt
+*.ckpt
+
+# --- Virtual environments ---
+venv/
+.env/
+
+# --- IDE ---
+.idea/
+.vscode/
+
+# --- OS / cache ---
+.DS_Store
+Thumbs.db
+
+# --- Results / logs ---
+*.log
+logs/
+results/
+outputs/
+LSTM_results_variantA/
+LSTM_results_variantB_pod/
+RNN_results_variantA/
+RNN_results_variantB_pod/
