@@ -242,11 +242,4 @@ LSTM_results_variantB_pod/
 
 ---
 
-## 🧠 References
-
-* Kuramoto, Y., & Tsuzuki, T. (1976). *Persistent propagation of concentration waves in dissipative media far from thermal equilibrium*. Progress of Theoretical Physics, **55(2)**, 356–369.
-* Hyman, J. M., Nicolaenko, B., & Zaleski, S. (1986). *Order and complexity in the Kuramoto–Sivashinsky model of weakly turbulent interfaces*. Physica D: Nonlinear Phenomena, **23(1–3)**, 265–292.
-
----
-
 📌 **Developed by Hrachya Baghdasaryan**
