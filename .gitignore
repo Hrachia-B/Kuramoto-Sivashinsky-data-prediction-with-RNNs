@@ -27,7 +27,3 @@ Thumbs.db
 logs/
 results/
 outputs/
-LSTM_results_variantA/
-LSTM_results_variantB_pod/
-RNN_results_variantA/
-RNN_results_variantB_pod/
